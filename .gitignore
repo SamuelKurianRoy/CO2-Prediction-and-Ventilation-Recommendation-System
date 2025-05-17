@@ -1,0 +1,12 @@
+# Exclude result.txt
+result.txt
+plots/
+results/
+__pycache__/
+*.py[cod]
+
+
+# Environment and OS files
+.env
+.DS_Store
+Thumbs.db
